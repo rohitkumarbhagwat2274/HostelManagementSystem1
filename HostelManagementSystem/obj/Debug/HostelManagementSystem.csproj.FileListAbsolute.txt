@@ -1,0 +1,12 @@
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\bin\HostelManagementSystem.dll
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\bin\HostelManagementSystem.pdb
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.dll
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csprojResolveAssemblyReference.cache
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\bin\HostelManagementSystem.dll
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\bin\HostelManagementSystem.pdb
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csprojResolveAssemblyReference.cache
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.dll
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.AssemblyReference.cache
+H:\MCA\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.CoreCompileInputs.cache
